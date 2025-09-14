@@ -1,4 +1,4 @@
-## Hello, my major is Artificial Intelligence. 👋
+## Hello, I am majoring in Artificial Intelligence. I look forward to working with you. 👋
 
 <!--
 **chan356/chan356** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
