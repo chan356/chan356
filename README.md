@@ -1,4 +1,4 @@
-## Hello, this is an open-source sw project. 👋
+## git-practice. 👋
 
 <!--
 **chan356/chan356** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
